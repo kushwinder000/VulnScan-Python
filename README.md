@@ -34,10 +34,6 @@ VulnScan/
 │       ├── dir_module.py
 │       └── headers_module.py
 │
-├── assets/
-│   └── logo.png
-│   └── dark_theme.qss
-│
 ├── requirements.txt
 ├── README.md
 ```
