@@ -1,6 +1,0 @@
-requests
-beautifulsoup4
-whois
-PyQt6
-python-whois
-reportlab  # only if you're generating PDF reports
